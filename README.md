@@ -1,3 +1,3 @@
 # JWTWebAPIAuthentication
 
-This is an ASP .NEt Web API that generates a Json Web Token for Authorizing and Authenticating Users before thay can access Protected Routes.
+ASP .NEt Core Web API that generates a Json Web Token for Authorizing and Authenticating Users before they can access Protected Routes in your application.
